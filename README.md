@@ -1,4 +1,4 @@
-# Java_Programming
+# Java Programming
 <div align="center">
 <img src="Assets/java-programming.png"  width="150" height="auto">
 </div>
